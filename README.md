@@ -44,6 +44,7 @@
  - [Lista de Exercício 5](praticas/Lista_de_Exercicio_5.ipynb)
  - [Lista de Exercício 6](praticas/Lista_de_Exercicio_6.ipynb)
  - [Lista de Exercício 7](praticas/Lista_de_Exercicio_7.ipynb)
+ - [Lista de Exercício 8](praticas/Lista_de_Exercicio_8.ipynb)
 
 ---
 
